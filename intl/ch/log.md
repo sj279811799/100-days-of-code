@@ -47,3 +47,13 @@
 **思考：** 早读主要是介绍了react、vue等框架的响应式，即一个值发生变化，依赖这个值的其他值也会跟着改变。其实现原理大致是给每个变量定义set、get方法，当变量被引用时，get被调用，用数组存下调用的计算函数，函数相当于该变量的订阅者。当变量被改变，set被调用，遍历调用数组中的订阅函数。JavaScript30-5主要介绍了flex的使用以及简单的css的动画变换。
 
 **工作成果链接：** [JavaScript30-5](https://github.com/sj279811799/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/index-START.html)
+
+# 100 Days Of Code - 日志
+
+### 第六天: 2018年10月18日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-6。
+
+**思考：** 早读主要是介绍了js中几种计时器，大部分之前都没用过，抽空仔细了解下。JavaScript30-6主要介绍的是数据的请求和过滤展示，请求使用的fetch函数，过滤使用的正则。
+
+**工作成果链接：** [JavaScript30-6](https://github.com/sj279811799/JavaScript30/blob/master/06%20-%20Type%20Ahead/index-START.html)
