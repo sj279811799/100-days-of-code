@@ -57,3 +57,13 @@
 **思考：** 早读主要是介绍了js中几种计时器，大部分之前都没用过，抽空仔细了解下。JavaScript30-6主要介绍的是数据的请求和过滤展示，请求使用的fetch函数，过滤使用的正则。
 
 **工作成果链接：** [JavaScript30-6](https://github.com/sj279811799/JavaScript30/blob/master/06%20-%20Type%20Ahead/index-START.html)
+
+# 100 Days Of Code - 日志
+
+### 第七天: 2018年10月19日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-7。
+
+**思考：** 早读主要是介绍了响应式框架新的实现方式，使用Proxy替代了Object.defineProperty，拦截set、get、deleteProperty方法。JavaScript30-7主要是对数组操作，很简单，今后要常用some、every做判断，findIndex获取下标，slice截取数组，splice插入删除替换元素。
+
+**工作成果链接：** [JavaScript30-7](https://github.com/sj279811799/JavaScript30/blob/master/07%20-%20Array%20Cardio%20Day%202/index-START.html)
