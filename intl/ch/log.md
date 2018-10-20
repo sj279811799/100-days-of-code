@@ -8,6 +8,7 @@
 
 **工作成果链接：** [JavaScript30-1](https://github.com/sj279811799/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-START.html)
 
+
 # 100 Days Of Code - 日志
 
 ### 第二天: 2018年10月14日
@@ -17,6 +18,7 @@
 **思考：** js中当有if-else时，尽量先考虑特殊情况先return，减少代码的复杂度。判断数组中可以使用some或every函数，简化代码。JavaScript30-2实现了个简单的时钟，主要原理是将根据时间调整角度。
 
 **工作成果链接：** [JavaScript30-2](https://github.com/sj279811799/JavaScript30/blob/master/02%20-%20JS%20%2B%20CSS%20Clock/index-START.html)
+
 
 # 100 Days Of Code - 日志
 
@@ -28,6 +30,7 @@
 
 **工作成果链接：** [JavaScript30-3](https://github.com/sj279811799/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-START.html)
 
+
 # 100 Days Of Code - 日志
 
 ### 第四天: 2018年10月16日
@@ -37,6 +40,7 @@
 **思考：** 早读主要是介绍react,vue将虚拟dom渲染成真实节点的过程，还有点看不懂。JavaScript30-4主要是对数组的排序统计等操作，主要是reduce，这个之前没怎么用过，接收2个值，一个函数，一个初始值。函数有两个参数，第一个是上一次计算的结果，第二个是本次的循环到的值。
 
 **工作成果链接：** [JavaScript30-4](https://github.com/sj279811799/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/index-START.html)
+
 
 # 100 Days Of Code - 日志
 
@@ -48,6 +52,7 @@
 
 **工作成果链接：** [JavaScript30-5](https://github.com/sj279811799/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/index-START.html)
 
+
 # 100 Days Of Code - 日志
 
 ### 第六天: 2018年10月18日
@@ -58,6 +63,7 @@
 
 **工作成果链接：** [JavaScript30-6](https://github.com/sj279811799/JavaScript30/blob/master/06%20-%20Type%20Ahead/index-START.html)
 
+
 # 100 Days Of Code - 日志
 
 ### 第七天: 2018年10月19日
@@ -67,3 +73,14 @@
 **思考：** 早读主要是介绍了响应式框架新的实现方式，使用Proxy替代了Object.defineProperty，拦截set、get、deleteProperty方法。JavaScript30-7主要是对数组操作，很简单，今后要常用some、every做判断，findIndex获取下标，slice截取数组，splice插入删除替换元素。
 
 **工作成果链接：** [JavaScript30-7](https://github.com/sj279811799/JavaScript30/blob/master/07%20-%20Array%20Cardio%20Day%202/index-START.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第八天: 2018年10月19日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-8。
+
+**思考：** 早读主要是介绍了如何写一个开源js库。JavaScript30-8实现了一个浏览器上的画板，主要是使用canvas的绘图功能，监听鼠标动作，进行画线，可以设置画线的样式。
+
+**工作成果链接：** [JavaScript30-8](https://github.com/sj279811799/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
