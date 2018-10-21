@@ -83,4 +83,15 @@
 
 **思考：** 早读主要是介绍了如何写一个开源js库。JavaScript30-8实现了一个浏览器上的画板，主要是使用canvas的绘图功能，监听鼠标动作，进行画线，可以设置画线的样式。
 
-**工作成果链接：** [JavaScript30-8](https://github.com/sj279811799/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
+**工作成果链接：** [JavaScript30-8](https://github.com/sj279811799/JavaScript30/blob/master/08%20-%20Fun%20with%20HTML5%20Canvas/index-START.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第九天: 2018年10月20日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-9。
+
+**思考：** 早读前端发展，没什么技术方面的内容。JavaScript30-9介绍了浏览器的console输出，主要有log,error,warn,info,assert,dir,group,groupCollapsed,groupEnd,table,count,time,timeEnd。
+
+**工作成果链接：** [JavaScript30-9](https://github.com/sj279811799/JavaScript30/blob/master/09%20-%20Dev%20Tools%20Domination/index-START.html)
