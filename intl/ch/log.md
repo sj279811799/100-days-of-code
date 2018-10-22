@@ -66,7 +66,7 @@
 
 # 100 Days Of Code - 日志
 
-### 第七天: 2018年10月19日
+### 第七天: 2018年10月20日
 
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-7。
 
@@ -77,7 +77,7 @@
 
 # 100 Days Of Code - 日志
 
-### 第八天: 2018年10月19日
+### 第八天: 2018年10月21日
 
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-8。
 
@@ -88,10 +88,21 @@
 
 # 100 Days Of Code - 日志
 
-### 第九天: 2018年10月20日
+### 第九天: 2018年10月22日
 
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-9。
 
 **思考：** 早读前端发展，没什么技术方面的内容。JavaScript30-9介绍了浏览器的console输出，主要有log,error,warn,info,assert,dir,group,groupCollapsed,groupEnd,table,count,time,timeEnd。
 
 **工作成果链接：** [JavaScript30-9](https://github.com/sj279811799/JavaScript30/blob/master/09%20-%20Dev%20Tools%20Domination/index-START.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第十天: 2018年10月23日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-10。
+
+**思考：** 前端早读主要介绍了Proxy的优缺点及用途，优点是支持数组和对象的监听，缺点是兼容性和多层嵌套不支持（可以递归Proxy实现支持）。用途可以用来响应式，数据验证，多继承，隐藏私有变量等。JavaScript30-10主要实现shift多选，两种方法，一种是初始check为false，遇到本次点击或上次点击列，则翻转，实现两次点击列间的选中/取消。第二种是利用数组slice方法，使用indexOf获取两次点击下标，然后截取得到要操作的项。
+
+**工作成果链接：** [JavaScript30-10](https://github.com/sj279811799/JavaScript30/blob/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-START.html)
