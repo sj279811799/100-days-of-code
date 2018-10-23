@@ -66,7 +66,7 @@
 
 # 100 Days Of Code - 日志
 
-### 第七天: 2018年10月20日
+### 第七天: 2018年10月19日
 
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-7。
 
@@ -77,7 +77,7 @@
 
 # 100 Days Of Code - 日志
 
-### 第八天: 2018年10月21日
+### 第八天: 2018年10月20日
 
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-8。
 
@@ -88,7 +88,7 @@
 
 # 100 Days Of Code - 日志
 
-### 第九天: 2018年10月22日
+### 第九天: 2018年10月21日
 
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-9。
 
@@ -99,10 +99,21 @@
 
 # 100 Days Of Code - 日志
 
-### 第十天: 2018年10月23日
+### 第十天: 2018年10月22日
 
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-10。
 
 **思考：** 前端早读主要介绍了Proxy的优缺点及用途，优点是支持数组和对象的监听，缺点是兼容性和多层嵌套不支持（可以递归Proxy实现支持）。用途可以用来响应式，数据验证，多继承，隐藏私有变量等。JavaScript30-10主要实现shift多选，两种方法，一种是初始check为false，遇到本次点击或上次点击列，则翻转，实现两次点击列间的选中/取消。第二种是利用数组slice方法，使用indexOf获取两次点击下标，然后截取得到要操作的项。
 
 **工作成果链接：** [JavaScript30-10](https://github.com/sj279811799/JavaScript30/blob/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-START.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第十天: 2018年10月23日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-11。
+
+**思考：** 前端早读主要介绍了原生html组件，主要由四大组件标准组成，html template、shadow dom、custom elements、html import(废弃，被es6 import替代)组成。shadow dom是dom树上一个隔离的子树，可以继承父级的一些属性，利用其隔离性就可以实现html组件了，比如原生组件video，input等（Chrome可以设置显示shadow dom）。shadow root是shadow dom下的根。当组件内部复杂，就可以使用html template了，使用js将其插入到shadow dom中。利用html impot可以将template定义在其他html文件中，然后倒入进来。通过上面三个已经将组件结构定义好了，然后就可以使用custom elements创建组件了，它提供了一系列生命函数，实现组件的交互事件。JavaScript30-11主要实现了对video标签的操作，包括播放暂停，快进快退，声音，速度，进度条等监听及调整。
+
+**工作成果链接：** [JavaScript30-11](https://github.com/sj279811799/JavaScript30/blob/master/11%20-%20Custom%20Video%20Player/scripts.js)
