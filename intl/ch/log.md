@@ -110,10 +110,20 @@
 
 # 100 Days Of Code - 日志
 
-### 第十天: 2018年10月23日
+### 第十一天: 2018年10月23日
 
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-11。
 
 **思考：** 前端早读主要介绍了原生html组件，主要由四大组件标准组成，html template、shadow dom、custom elements、html import(废弃，被es6 import替代)组成。shadow dom是dom树上一个隔离的子树，可以继承父级的一些属性，利用其隔离性就可以实现html组件了，比如原生组件video，input等（Chrome可以设置显示shadow dom）。shadow root是shadow dom下的根。当组件内部复杂，就可以使用html template了，使用js将其插入到shadow dom中。利用html impot可以将template定义在其他html文件中，然后倒入进来。通过上面三个已经将组件结构定义好了，然后就可以使用custom elements创建组件了，它提供了一系列生命函数，实现组件的交互事件。JavaScript30-11主要实现了对video标签的操作，包括播放暂停，快进快退，声音，速度，进度条等监听及调整。
 
 **工作成果链接：** [JavaScript30-11](https://github.com/sj279811799/JavaScript30/blob/master/11%20-%20Custom%20Video%20Player/scripts.js)
+
+# 100 Days Of Code - 日志
+
+### 第十二天: 2018年10月24日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-12。
+
+**思考：** 前端早读主要介绍了如何鉴别一个js库是否稳定可用。JavaScript30-12介绍了如何引入js文件，以及键盘监听，splice函数使用，从第一个参数开始，删除第二个参数制定个数元素，并插入第三个元素。
+
+**工作成果链接：** [JavaScript30-11](https://github.com/sj279811799/JavaScript30/blob/master/12%20-%20Key%20Sequence%20Detection/index-START.html)
