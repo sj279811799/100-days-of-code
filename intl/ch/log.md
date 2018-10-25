@@ -118,6 +118,7 @@
 
 **工作成果链接：** [JavaScript30-11](https://github.com/sj279811799/JavaScript30/blob/master/11%20-%20Custom%20Video%20Player/scripts.js)
 
+
 # 100 Days Of Code - 日志
 
 ### 第十二天: 2018年10月24日
@@ -126,4 +127,15 @@
 
 **思考：** 前端早读主要介绍了如何鉴别一个js库是否稳定可用。JavaScript30-12介绍了如何引入js文件，以及键盘监听，splice函数使用，从第一个参数开始，删除第二个参数制定个数元素，并插入第三个元素。
 
-**工作成果链接：** [JavaScript30-11](https://github.com/sj279811799/JavaScript30/blob/master/12%20-%20Key%20Sequence%20Detection/index-START.html)
+**工作成果链接：** [JavaScript30-12](https://github.com/sj279811799/JavaScript30/blob/master/12%20-%20Key%20Sequence%20Detection/index-START.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第十三天: 2018年10月25日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-13。
+
+**思考：** 前端早读主要介绍了如何优化前端页面，因为之前没看过相关内容，不是很懂，有时间系统学习一下，优化一下项目代码。JavaScript30-13介绍了文章中图片滑入滑出，主要利用滚动位置计算图片相对当前窗口的位置，然后利用opacity和translateX属性实现滑入。
+
+**工作成果链接：** [JavaScript30-13](https://github.com/sj279811799/JavaScript30/blob/master/13%20-%20Slide%20in%20on%20Scroll/index-START.html)
