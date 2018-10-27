@@ -139,3 +139,14 @@
 **思考：** 前端早读主要介绍了如何优化前端页面，因为之前没看过相关内容，不是很懂，有时间系统学习一下，优化一下项目代码。JavaScript30-13介绍了文章中图片滑入滑出，主要利用滚动位置计算图片相对当前窗口的位置，然后利用opacity和translateX属性实现滑入。
 
 **工作成果链接：** [JavaScript30-13](https://github.com/sj279811799/JavaScript30/blob/master/13%20-%20Slide%20in%20on%20Scroll/index-START.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第十四天: 2018年10月26日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-14。
+
+**思考：** 前端早读主要介绍了使用Redux处理数据的几个建议，虽然不用redux，但其中的几个思想还是值得参考的比如保存源数据，数据与界面状态分离，多个页面公共数据共用。JavaScript30-14主要介绍了数组和对象拷贝，如果直接赋值，只是对象引用，而不是新建一个对象。
+
+**工作成果链接：** [JavaScript30-14](https://github.com/sj279811799/JavaScript30/blob/master/14%20-%20JavaScript%20References%20VS%20Copying/index-START.html)
