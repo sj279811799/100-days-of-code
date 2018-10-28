@@ -150,3 +150,14 @@
 **思考：** 前端早读主要介绍了使用Redux处理数据的几个建议，虽然不用redux，但其中的几个思想还是值得参考的比如保存源数据，数据与界面状态分离，多个页面公共数据共用。JavaScript30-14主要介绍了数组和对象拷贝，如果直接赋值，只是对象引用，而不是新建一个对象。
 
 **工作成果链接：** [JavaScript30-14](https://github.com/sj279811799/JavaScript30/blob/master/14%20-%20JavaScript%20References%20VS%20Copying/index-START.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第十四天: 2018年10月27日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-15。
+
+**思考：** 前端早读主要介绍了React16.7中的Hooks，在纯组件PureComponent是无法使用state和周期函数的。新提供的useState和useEffect允许在纯函数中使用。JavaScript30-15主要讲了localStorage的使用。
+
+**工作成果链接：** [JavaScript30-14](https://github.com/sj279811799/JavaScript30/blob/master/15%20-%20LocalStorage/index-START.html)
