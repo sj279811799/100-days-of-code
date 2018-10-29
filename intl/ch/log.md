@@ -172,3 +172,14 @@
 **思考：** 前端早读主要介绍了js中this的指代。JavaScript30-16实现了一个随鼠标变化的多个彩色文字的移动，实现原理是首先使用contenteditable使标签可编辑，然后获取鼠标位置，让后对标签设置四个方向不同颜色的textShadow。
 
 **工作成果链接：** [JavaScript30-16](https://github.com/sj279811799/JavaScript30/blob/master/16%20-%20Mouse%20Move%20Shadow/index-start.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第十七天: 2018年10月29日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-17。
+
+**思考：** 前端早读主要介绍了前端面试，主讲了关于react的面试内容，意识到还有很多要学的，目前知道的还比较浅显。JavaScript30-17主要讲了对数组的排序，sort是对数组本身的操作，不会生成新的对象。
+
+**工作成果链接：** [JavaScript30-17](https://github.com/sj279811799/JavaScript30/blob/master/17%20-%20Sort%20Without%20Articles/index-start.html)
