@@ -183,3 +183,14 @@
 **思考：** 前端早读主要介绍了前端面试，主讲了关于react的面试内容，意识到还有很多要学的，目前知道的还比较浅显。JavaScript30-17主要讲了对数组的排序，sort是对数组本身的操作，不会生成新的对象。
 
 **工作成果链接：** [JavaScript30-17](https://github.com/sj279811799/JavaScript30/blob/master/17%20-%20Sort%20Without%20Articles/index-start.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第十八天: 2018年10月30日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-18。
+
+**思考：** 前端早读主要介绍了浏览器工作原理，太长还没看。JavaScript30-18就是对map,split,reduce三个函数的使用。
+
+**工作成果链接：** [JavaScript30-18](https://github.com/sj279811799/JavaScript30/blob/master/18%20-%20AddingUpTimesWithReduce/index-start.html)
