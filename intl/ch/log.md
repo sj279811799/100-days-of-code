@@ -194,3 +194,12 @@
 **思考：** 前端早读主要介绍了浏览器工作原理，太长还没看。JavaScript30-18就是对map,split,reduce三个函数的使用。
 
 **工作成果链接：** [JavaScript30-18](https://github.com/sj279811799/JavaScript30/blob/master/18%20-%20AddingUpTimesWithReduce/index-start.html)
+
+
+# 100 Days Of Code - 日志
+
+### 第十九天: 2018年10月31日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-19。
+
+**思考：** 前端早读主要介绍了网易小程序的设计，JavaScript30-19主要介绍了网页端摄像头调用以及canvas的使用，都没细看，留到周末细读。
