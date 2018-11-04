@@ -221,3 +221,21 @@
 **今天的进展：** 阅读了早读文章，学习了JavaScript30-21。
 
 **思考：** 前端早读主要介绍了Rxjs的使用。JavaScript30-21介绍了浏览器端使用navigator.geolocation获取地理位置信息和速度方向等信息，但笔记本不支持。
+
+
+# 100 Days Of Code - 日志
+
+### 第二十二天: 2018年11月03日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-22。
+
+**思考：** 前端早读主要介绍了网页左右布局，主要考虑到一些国家的阅读方式是RTL，利用transform可以实现整个页面左右翻转。JavaScript30-22介绍了实现对鼠标移入的文字添加白色背景，主要是利用getBoundingClientRect获取区块宽高和位置，然后调整背景块的位置。
+
+
+# 100 Days Of Code - 日志
+
+### 第二十三天: 2018年11月04日
+
+**今天的进展：** 阅读了早读文章，学习了JavaScript30-23。
+
+**思考：** 前端早读主要介绍了通过IntersectionObserver实现异步懒加载，我们通过判断图片位置来控制图片加载，但这会scroll频繁触发，增加浏览器负担，IntersectionObserver会异步监听元素位置变化不会占用主线程。JavaScript30-23介绍了实现浏览器端的语音合成，即识别文字并语音播放，主要使用SpeechSynthesisUtterance获取语言，SpeechSynthesis获取语音识别播放实例。
